@@ -16,11 +16,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "UnityVersionControl",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d971a6f8262e4066ba77cbd67a375884"
-		},
-		{
 			"Name": "Water",
 			"Enabled": true
 		},
@@ -30,6 +25,14 @@
 		},
 		{
 			"Name": "ActorPalette",
+			"Enabled": true
+		},
+		{
+			"Name": "SunPosition",
+			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
 			"Enabled": true
 		}
 	]
